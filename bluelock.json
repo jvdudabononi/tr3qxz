@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1715460136",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur.com/a/bvhwaUY"
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/4723a71a-304a-4f06-adf8-2fea29ea17ba"
       }
     },
     "258": {
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1715460168",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur.com/a/3i2gqov"
+        "Mangá Dōjō": "https://mangadex.org/chapter/82aaf700-3ee0-4638-8b3b-c764ebe08581/1"
       }
     },
     "259": {
@@ -26,7 +26,7 @@
       "volume": "",
       "last_updated": "1715460197",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur.com/a/rvbYNTm"
+        "Mangá Dōjō": "https://mangadex.org/chapter/2ee3c589-4317-46ea-9c2a-618a360ea72b/1"
       }
     },
     "260": {
@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1715460226",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur.com/a/iPIGu10"
+        "Mangá Dōjō": "/proxy/api/imgur/chapter/iPIGu10"
       }
     }
   }
