@@ -1,0 +1,59 @@
+{
+  "title": "One Piece",
+  "description": "Luffy, um jovem cujo corpo ganhou as propriedades de borracha após ter comido uma fruta do diabo acidentalmente. Com sua tripulação, os Piratas do Chapéu de Palha, Luffy explora a Grand Line em busca do tesouro mais procurado do mundo, o \"One Piece\", a fim de se tornar o próximo Rei dos Piratas.",
+  "artist": "eiichiro oda",
+  "author": "eiichiro oda",
+  "cover": "https://mangadex.org/covers/a1c7c817-4e59-43b7-9365-09675a149a6f/636e708c-e853-4a60-a795-f9baf82e3b8e.jpg",
+  "chapters": {
+    "1110": {
+      "title": "Planetfall",
+      "volume": "",
+      "last_updated": "1715458384",
+      "groups": {
+        "Mangá Dōjō": [
+          "https://imgur.com/gallery/7uapa3T"
+        ]
+      }
+    },
+    "1111": {
+      "title": "\"O Escudo do Sol\"",
+      "volume": "",
+      "last_updated": "1715458406",
+      "groups": {
+        "Mangá Dōjō": [
+          "https://imgur.com/a/yG0hgdT"
+        ]
+      }
+    },
+    "1112": {
+      "title": "Aspecto Árduo",
+      "volume": "",
+      "last_updated": "1715458825",
+      "groups": {
+        "Mangá Dōjō": [
+          "https://imgur.com/a/XOOWEY8"
+        ]
+      }
+    },
+    "1113": {
+      "title": "Impasse",
+      "volume": "",
+      "last_updated": "1715459067",
+      "groups": {
+        "Mangá Dōjō": [
+          "https://imgur.com/a/vjWhelm"
+        ]
+      }
+    },
+    "1114": {
+      "title": "As asas de Ícaro",
+      "volume": "",
+      "last_updated": "1715459221",
+      "groups": {
+        "Mangá Dōjō": [
+          "https://imgur.com/a/dp6g7TS"
+        ]
+      }
+    }
+  }
+}
