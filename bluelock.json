@@ -36,6 +36,16 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/imgur/chapter/iPIGu10"
       }
+    },
+    "261": {
+      "title": "Malícia",
+      "volume": "",
+      "last_updated": "1715817355",
+      "groups": {
+        "Mangá Dōjō": [
+          "https://imgur.com/gallery/blue-lock-161-EWJgK3W"
+        ]
+      }
     }
   }
 }
