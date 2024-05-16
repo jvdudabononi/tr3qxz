@@ -5,6 +5,14 @@
   "author": "eiichiro oda",
   "cover": "https://mangadex.org/covers/a1c7c817-4e59-43b7-9365-09675a149a6f/636e708c-e853-4a60-a795-f9baf82e3b8e.jpg",
   "chapters": {
+    "1": {
+      "title": "Romance Dawn ~O Alvorecer da Aventura~",
+      "volume": "",
+      "last_updated": "1715818360",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/e8476fa7-11e8-4c2f-b5eb-f1a5e05de88c"
+      }
+    },
     "1110": {
       "title": "Planetfall",
       "volume": "",
