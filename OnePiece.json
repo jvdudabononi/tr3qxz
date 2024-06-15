@@ -3205,6 +3205,30 @@
         "scansPROJECT": "/proxy/api/mangadex/chapter/a63e294c-14f6-4f9d-93e9-27c1b76ed894"
       }
     },
+    "401": {
+      "title": "Piratas VS CP9",
+      "volume": "",
+      "last_updated": "1718480629",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/0e31e0b5-2959-415f-97d7-5fa41be8836d"
+      }
+    },
+    "402": {
+      "title": "Algemas Nº 2",
+      "volume": "",
+      "last_updated": "1718480664",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/8a916e22-c031-4d56-a7e6-41ce1693ec07"
+      }
+    },
+    "403": {
+      "title": "Mr. Cavalherismo",
+      "volume": "",
+      "last_updated": "1718480679",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/0c05d049-0685-45b4-8f3b-7ed4f8321a45"
+      }
+    },
     "1110": {
       "title": "Planetfall",
       "volume": "",
