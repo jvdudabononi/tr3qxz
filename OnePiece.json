@@ -3229,6 +3229,30 @@
         "scansPROJECT": "/proxy/api/mangadex/chapter/0c05d049-0685-45b4-8f3b-7ed4f8321a45"
       }
     },
+    "404": {
+      "title": "Franky VS Fukurou",
+      "volume": "",
+      "last_updated": "1718486027",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/9888ce73-4c6e-4fab-ad0e-744c8174293e"
+      }
+    },
+    "405": {
+      "title": "Poder",
+      "volume": "",
+      "last_updated": "1718486068",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/974533ef-eefc-4282-a3ba-f5c3e3301bb7"
+      }
+    },
+    "406": {
+      "title": "Seimei Kikan",
+      "volume": "",
+      "last_updated": "1718486240",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/c2c0bcc7-3481-4a7a-819b-05ad45bcd5f1"
+      }
+    },
     "1110": {
       "title": "Planetfall",
       "volume": "",
