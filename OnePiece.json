@@ -4005,6 +4005,806 @@
         "scansPROJECT": "/proxy/api/mangadex/chapter/37f6515b-7f61-459e-90ea-2264f70f4dbe"
       }
     },
+    "501": {
+      "title": "O Mundo Começa a Embravecer",
+      "volume": "",
+      "last_updated": "1718503278",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/f86bb3b8-7e12-46b3-9adf-6626f8c54549"
+      }
+    },
+    "502": {
+      "title": "Incidente com o Dragão Celeste",
+      "volume": "",
+      "last_updated": "1718503297",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/db591cd5-ed2a-475d-bf84-f15cff003ac2"
+      }
+    },
+    "503": {
+      "title": "Caos na Ilha",
+      "volume": "",
+      "last_updated": "1718503318",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/4362fc25-11e2-4b14-b660-0200050cfada"
+      }
+    },
+    "504": {
+      "title": "A Linha de Frente Pirata se Move!!",
+      "volume": "",
+      "last_updated": "1718503332",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/930948c6-d859-4471-ae77-9bc704a5affc"
+      }
+    },
+    "505": {
+      "title": "Kuma",
+      "volume": "",
+      "last_updated": "1718503351",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/1735208a-5281-44cd-9887-2ab238783a6d"
+      }
+    },
+    "506": {
+      "title": "Roger e Rayleigh",
+      "volume": "",
+      "last_updated": "1718503368",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/b7c6b397-aeec-4433-83c7-6c29cfd89c81"
+      }
+    },
+    "507": {
+      "title": "A Chegada de Kizaru",
+      "volume": "",
+      "last_updated": "1718503384",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/5452babb-1075-4d1d-bcbc-1cdcfcb99d80"
+      }
+    },
+    "508": {
+      "title": "Ilha da Carnificina",
+      "volume": "",
+      "last_updated": "1718503402",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/82d6fa62-f172-4dd6-92be-96ae51f0f4f0"
+      }
+    },
+    "509": {
+      "title": "Kizaru vs 4 Capitães",
+      "volume": "",
+      "last_updated": "1718503417",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/77e0bfc3-af77-43c6-97c0-20bf02cc3346"
+      }
+    },
+    "510": {
+      "title": "Bando do Chapéu de Palha vs Máquina de Combate",
+      "volume": "",
+      "last_updated": "1718503431",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/582bfef5-f0bf-4a87-9f1e-60e6881e7ba6"
+      }
+    },
+    "511": {
+      "title": "Sentoumaru do Machado Gigante",
+      "volume": "",
+      "last_updated": "1718503446",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/967b2c80-da8d-49df-a0b5-81352a7debb9"
+      }
+    },
+    "512": {
+      "title": "Zoro Desaparece",
+      "volume": "",
+      "last_updated": "1718503459",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/bd763f8b-131d-4626-b7a2-1aaa85bb6897"
+      }
+    },
+    "513": {
+      "title": "Não Pude Salvá-los!!!",
+      "volume": "",
+      "last_updated": "1718503473",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e854f71f-3a0a-4c25-9b43-e23c203953d0"
+      }
+    },
+    "514": {
+      "title": "Cogumelos que Crescem no Corpo",
+      "volume": "",
+      "last_updated": "1718503491",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/7dc255a4-16f3-466d-9138-289d3dccbdaf"
+      }
+    },
+    "515": {
+      "title": "Aventura na Ilha das Mulheres",
+      "volume": "",
+      "last_updated": "1718503507",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/24378956-6445-4e25-9172-09a76e1fa641"
+      }
+    },
+    "516": {
+      "title": "A Imperatriz Pirata Boa Hancock",
+      "volume": "",
+      "last_updated": "1718503526",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/cd2b2794-e8af-42d6-b527-2758659495fd"
+      }
+    },
+    "517": {
+      "title": "Hora do Banho",
+      "volume": "",
+      "last_updated": "1718503538",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/cb46b107-713f-4cd6-86bf-8266842bfe2d"
+      }
+    },
+    "518": {
+      "title": "Arena de Combate",
+      "volume": "",
+      "last_updated": "1718503552",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/adf12fdd-d6fc-48d8-a04a-57c4d397b19c"
+      }
+    },
+    "519": {
+      "title": "A Essência dos Reis",
+      "volume": "",
+      "last_updated": "1718503566",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/0631b8c1-d0c4-47f4-831c-cd7ec5d61d7e"
+      }
+    },
+    "520": {
+      "title": "Olhos da Górgona",
+      "volume": "",
+      "last_updated": "1718503584",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e2203653-2fb4-416a-a275-aff4378e61b6"
+      }
+    },
+    "521": {
+      "title": "A Pata do Dragão Ascendente",
+      "volume": "",
+      "last_updated": "1718503598",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/79e8a5cb-ba1d-4dc7-ae48-b9cd38a2b474"
+      }
+    },
+    "522": {
+      "title": "Enfermidade Fatal",
+      "volume": "",
+      "last_updated": "1718503614",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/06878e66-d398-4fc0-9ab7-a04780000347"
+      }
+    },
+    "523": {
+      "title": "Inferno",
+      "volume": "",
+      "last_updated": "1718503632",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/4634fbc0-125d-4fe5-adb0-72a605ece8a6"
+      }
+    },
+    "524": {
+      "title": "Ninguém Pode Parar Isso",
+      "volume": "",
+      "last_updated": "1718503648",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/5abcaf77-b439-44d0-8b2d-5b67999a31a5"
+      }
+    },
+    "525": {
+      "title": "A Prisão Submarina Impel Down",
+      "volume": "",
+      "last_updated": "1718503665",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/5b2cfb66-d9e9-43dd-91a7-09bfd45d80e0"
+      }
+    },
+    "526": {
+      "title": "Aventura na Grande Prisão",
+      "volume": "",
+      "last_updated": "1718503683",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/f83a542c-65a5-409b-978f-07d9d0955e8b"
+      }
+    },
+    "527": {
+      "title": "Nível 1 - Inferno Carmesim",
+      "volume": "",
+      "last_updated": "1718503700",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/f84b1cbe-6376-4c76-ac4b-5e33c477f152"
+      }
+    },
+    "528": {
+      "title": "Jinbei, o Cavaleiro dos Mares",
+      "volume": "",
+      "last_updated": "1718503716",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/f75db3c3-ec58-497d-a707-b6f1ee70210c"
+      }
+    },
+    "529": {
+      "title": "Nível 2 - Inferno das Bestas Selvagens",
+      "volume": "",
+      "last_updated": "1718503732",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/7d59d8e6-b8a6-429b-8bf6-646062e33e82"
+      }
+    },
+    "530": {
+      "title": "De Inferno à Inferno",
+      "volume": "",
+      "last_updated": "1718503746",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/b9dc505b-97f4-4c96-b1e7-48a58dbb66ea"
+      }
+    },
+    "531": {
+      "title": "Nível 3 - Inferno da Inanição",
+      "volume": "",
+      "last_updated": "1718503761",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/08ca900c-3c15-49b7-b8f1-d5bbd68b89fe"
+      }
+    },
+    "532": {
+      "title": "Minotauro, a Besta Carcereira",
+      "volume": "",
+      "last_updated": "1718503779",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/5399a3d7-d355-4213-88fe-b36477fc0c66"
+      }
+    },
+    "533": {
+      "title": "Nível 4 - Inferno Escaldante",
+      "volume": "",
+      "last_updated": "1718503800",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/2e8321ce-6450-4689-930f-34d02f539f55"
+      }
+    },
+    "534": {
+      "title": "Diretor da Prisão Magellan vs Pirata Luffy",
+      "volume": "",
+      "last_updated": "1718503815",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/b5d2ed35-6d74-4029-b2e1-e066bbd0e782"
+      }
+    },
+    "535": {
+      "title": "Amigos",
+      "volume": "",
+      "last_updated": "1718503829",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/ea652694-f95d-4ac9-aa2e-7bffa3ed381b"
+      }
+    },
+    "536": {
+      "title": "Nível 5 - Inferno Criogênico",
+      "volume": "",
+      "last_updated": "1718503849",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/8e4e9db5-5b7b-4bb3-80c4-621f0410237d"
+      }
+    },
+    "537": {
+      "title": "Okama no Inferno",
+      "volume": "",
+      "last_updated": "1718503866",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/dc927dfc-d4d6-46eb-acf2-f56dc5617481"
+      }
+    },
+    "538": {
+      "title": "Nível 5.5 - A Terra dos Newkama",
+      "volume": "",
+      "last_updated": "1718503928",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/84afaa24-533b-49b7-9725-b071ecf30f78"
+      }
+    },
+    "539": {
+      "title": "Hormônios de Tensão Emporio",
+      "volume": "",
+      "last_updated": "1718503947",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/1e08ceb8-e074-4140-bcde-cfe90039e23b"
+      }
+    },
+    "540": {
+      "title": "Nível 6 - Inferno Eterno",
+      "volume": "",
+      "last_updated": "1718503963",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/928cf363-0f0d-4113-91f2-5c580ff4ae93"
+      }
+    },
+    "541": {
+      "title": "Do Tipo Que Você Nunca Viu",
+      "volume": "",
+      "last_updated": "1718503976",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/119b6cdb-2cac-4d70-9bad-6d385922b42a"
+      }
+    },
+    "542": {
+      "title": "Outro Incidente a Ser Relatado",
+      "volume": "",
+      "last_updated": "1718503993",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/8fdf3ff9-d8ab-4b04-b509-094208d3b124"
+      }
+    },
+    "543": {
+      "title": "O Chapéu de Palha e o Barba Negra",
+      "volume": "",
+      "last_updated": "1718504023",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/6f0dbe90-1cbc-461c-a0e4-d2e76ab39136"
+      }
+    },
+    "544": {
+      "title": "Até a Tampa do Caldeirão do Inferno Irá se Abrir",
+      "volume": "",
+      "last_updated": "1718504038",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/6b862488-672f-4c64-a45e-f380930e04b7"
+      }
+    },
+    "545": {
+      "title": "Para o Mundo Onde o Sol Brilha",
+      "volume": "",
+      "last_updated": "1718504054",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/3cf8159e-a1bb-480d-a71a-b2115c59435c"
+      }
+    },
+    "546": {
+      "title": "Shichibukai Jinbei, o Capitão dos Piratas Tritões",
+      "volume": "",
+      "last_updated": "1718504076",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/833fda0d-8372-45f7-bcbe-42cd27acd432"
+      }
+    },
+    "547": {
+      "title": "Escapando da Ilha",
+      "volume": "",
+      "last_updated": "1718504091",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/972e10d2-fb00-467c-96d7-e388ce3e1c54"
+      }
+    },
+    "548": {
+      "title": "Obrigado",
+      "volume": "",
+      "last_updated": "1718504108",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/ceb3da65-8fb1-4e8d-8d9a-bd9b74910fee"
+      }
+    },
+    "549": {
+      "title": "Navegando Adiante",
+      "volume": "",
+      "last_updated": "1718504124",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/8d8c8ba3-688c-4a4a-9e4a-d4dc4bfe3988"
+      }
+    },
+    "550": {
+      "title": "O Quartel General da Marinha",
+      "volume": "",
+      "last_updated": "1718504150",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/6d10f5d6-84df-42de-82f0-74300125c29c"
+      }
+    },
+    "551": {
+      "title": "Barba Branca dos Yonkou",
+      "volume": "",
+      "last_updated": "1718504167",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/fc02f6dc-c6e5-41f7-89e4-671a59da10c8"
+      }
+    },
+    "552": {
+      "title": "Ace e Barba Branca",
+      "volume": "",
+      "last_updated": "1718504181",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/2832339e-3fad-496c-9a55-f3914db6c36d"
+      }
+    },
+    "553": {
+      "title": "A Batalha Decisiva da Cúpula",
+      "volume": "",
+      "last_updated": "1718504196",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/7b7d3e21-d3f3-4aba-a3d6-943d59b44469"
+      }
+    },
+    "554": {
+      "title": "Almirante Akainu",
+      "volume": "",
+      "last_updated": "1718504214",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/be134b82-1cb8-4441-9ef3-2f985b12da95"
+      }
+    },
+    "555": {
+      "title": "Oz e o Chapéu",
+      "volume": "",
+      "last_updated": "1718504233",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/8cd189f2-99fa-4335-a563-89d09afbffa5"
+      }
+    },
+    "556": {
+      "title": "A Justiça Prevalecerá!!",
+      "volume": "",
+      "last_updated": "1718504248",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/2ddf2704-dc69-457d-b733-dc9d84a6d68b"
+      }
+    },
+    "557": {
+      "title": "Luffy e Barba Branca",
+      "volume": "",
+      "last_updated": "1718504265",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/f20f14d0-8bf0-4e73-903a-a76a6ec96aea"
+      }
+    },
+    "558": {
+      "title": "Irmãozinho",
+      "volume": "",
+      "last_updated": "1718504283",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/330d1daa-76f0-4925-abbf-a011f27cb1ce"
+      }
+    },
+    "559": {
+      "title": "Destino",
+      "volume": "",
+      "last_updated": "1718504298",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/95170140-1864-4572-b92b-8ced9ca63a4e"
+      }
+    },
+    "560": {
+      "title": "Os Prisioneiros de Impel Down",
+      "volume": "",
+      "last_updated": "1718504312",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/1d859598-3e15-487a-b5c1-dfdcc7c6788e"
+      }
+    },
+    "561": {
+      "title": "Luffy vs Mihawk",
+      "volume": "",
+      "last_updated": "1718504332",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e27512be-9b81-42ef-a667-ad107adde4e6"
+      }
+    },
+    "562": {
+      "title": "Squardo, o Pirata Vortex Aranha",
+      "volume": "",
+      "last_updated": "1718504348",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/67a25e9e-7d6a-417f-ab9b-a292b13d6231"
+      }
+    },
+    "563": {
+      "title": "Um Coração, Um Homem",
+      "volume": "",
+      "last_updated": "1718504366",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/9f948412-6d21-4e34-a309-06349c97dcd4"
+      }
+    },
+    "564": {
+      "title": "O Homem que Faz o Mundo Tremer",
+      "volume": "",
+      "last_updated": "1718504380",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/683fac77-bd96-443d-ae4b-5eb0a401dbae"
+      }
+    },
+    "565": {
+      "title": "O Caminho de Oz",
+      "volume": "",
+      "last_updated": "1718504401",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/a8c9889e-c5f0-4b0e-a362-d2377e5c646e"
+      }
+    },
+    "566": {
+      "title": "Ataque Feroz",
+      "volume": "",
+      "last_updated": "1718504421",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/08fffeb4-e22f-4af2-a48f-bce63c7e46fc"
+      }
+    },
+    "567": {
+      "title": "Praça Oris de Marineford, o Quartel General da Marinha",
+      "volume": "",
+      "last_updated": "1718504441",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/c1c46f1b-797f-4534-8190-b31572b8fdc7"
+      }
+    },
+    "568": {
+      "title": "Como Você Quiser",
+      "volume": "",
+      "last_updated": "1718504457",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/1e3c46df-c85a-45e7-bed0-3292d6ab7617"
+      }
+    },
+    "569": {
+      "title": "Monstro Branco",
+      "volume": "",
+      "last_updated": "1718504474",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/2a505c24-22c3-4bc8-9121-779430e7eeb4"
+      }
+    },
+    "570": {
+      "title": "A Ponte da Vida",
+      "volume": "",
+      "last_updated": "1718504490",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/bb37907d-cf0a-4bf6-8167-0434f67785ec"
+      }
+    },
+    "571": {
+      "title": "Plataforma de Execução",
+      "volume": "",
+      "last_updated": "1718504505",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/5bd63bbc-c86c-44d0-b1e2-dc6be9fd9d01"
+      }
+    },
+    "572": {
+      "title": "The Times They Are A-Changin' ~Os Tempos Estão Mudando~",
+      "volume": "",
+      "last_updated": "1718504520",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/bf516b39-d3f7-4ea7-97ab-2563757eea26"
+      }
+    },
+    "573": {
+      "title": "O Nome Desta Era é \"Barba Branca\"",
+      "volume": "",
+      "last_updated": "1718504537",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/45f276a3-8fe8-4853-84db-ca565b74b630"
+      }
+    },
+    "574": {
+      "title": "A Morte de Portgas D. Ace",
+      "volume": "",
+      "last_updated": "1718504553",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/9f58ab01-954e-48a1-a65f-9bc045aa16d2"
+      }
+    },
+    "575": {
+      "title": "Fúria Sem Palavras",
+      "volume": "",
+      "last_updated": "1718504584",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/af9aaf99-1bbb-4156-b78b-f1548b1ed0d2"
+      }
+    },
+    "576": {
+      "title": "O Grande Pirata Edward Newgate",
+      "volume": "",
+      "last_updated": "1718504596",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/ccf1852f-7577-42c5-aef2-4000671a6d86"
+      }
+    },
+    "577": {
+      "title": "Ultrajantes Acontecimentos Um Após o Outro",
+      "volume": "",
+      "last_updated": "1718504609",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e9830874-9980-4b2d-800c-c321de33d319"
+      }
+    },
+    "578": {
+      "title": "Aquele que Deve Sobreviver para Ver a Nova Era",
+      "volume": "",
+      "last_updated": "1718504624",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/eeaa30bc-a07d-42a2-b5b3-00e8db973928"
+      }
+    },
+    "579": {
+      "title": "Segundos de Coragem",
+      "volume": "",
+      "last_updated": "1718504643",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/0884f453-4c3f-4107-83a8-daca31a7d21b"
+      }
+    },
+    "580": {
+      "title": "O Fim da Guerra",
+      "volume": "",
+      "last_updated": "1718504656",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/8ee16617-6778-4fd7-b700-978f53a5eda7"
+      }
+    },
+    "581": {
+      "title": "Futuro Rastejante",
+      "volume": "",
+      "last_updated": "1718504677",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/cb83ed3a-6cb4-48ae-9a1f-380583476736"
+      }
+    },
+    "582": {
+      "title": "Luffy e Ace",
+      "volume": "",
+      "last_updated": "1718504690",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e30a1873-b903-4cd1-a197-48a78113196b"
+      }
+    },
+    "583": {
+      "title": "Terminal Cinza",
+      "volume": "",
+      "last_updated": "1718504705",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/b356e532-749a-4fd0-acf9-1d2bfa72aa22"
+      }
+    },
+    "584": {
+      "title": "O Incidente de Porchemy",
+      "volume": "",
+      "last_updated": "1718504721",
+      "groups": {
+        " scansPROJECT": "/proxy/api/mangadex/chapter/8cb4a863-5e2b-47ad-9558-af73c0c08ecc"
+      }
+    },
+    "585": {
+      "title": "Pacto de Irmandade",
+      "volume": "",
+      "last_updated": "1718504737",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/32677b63-613a-4b82-8c1e-026bff449690"
+      }
+    },
+    "586": {
+      "title": "Uma Cidade Fétida",
+      "volume": "",
+      "last_updated": "1718504755",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/ab571776-0411-4ed6-929b-073e1e14405b"
+      }
+    },
+    "587": {
+      "title": "Eu Não Fugirei",
+      "volume": "",
+      "last_updated": "1718504771",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/50f49329-da45-46da-b1d1-e1ed3b16eb6d"
+      }
+    },
+    "588": {
+      "title": "O Oceano de Sabo",
+      "volume": "",
+      "last_updated": "1718504785",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/4bd9a90e-14e7-4815-bfcf-ee19f13f2646"
+      }
+    },
+    "589": {
+      "title": "Esforços Para Glória",
+      "volume": "",
+      "last_updated": "1718504801",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e3075a55-17e9-420f-88ec-798cca593c7e"
+      }
+    },
+    "590": {
+      "title": "Meu Irmãozinho",
+      "volume": "",
+      "last_updated": "1718504816",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e5f97e12-4510-450e-8c5a-2657596855c0"
+      }
+    },
+    "591": {
+      "title": "Está Tudo Bem Mesmo?",
+      "volume": "",
+      "last_updated": "1718504831",
+      "groups": {
+        " scansPROJECT": "/proxy/api/mangadex/chapter/f7819cc5-8bf4-4d1d-a8d3-b27867192a24"
+      }
+    },
+    "592": {
+      "title": "Grito",
+      "volume": "",
+      "last_updated": "1718504845",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/e84664ca-464b-4335-ac83-dda1eadd6eda"
+      }
+    },
+    "593": {
+      "title": "Notícias",
+      "volume": "",
+      "last_updated": "1718504860",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/10280ad5-4362-42de-a794-35de4dd02338"
+      }
+    },
+    "594": {
+      "title": "Mensagem",
+      "volume": "",
+      "last_updated": "1718504875",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/751b1626-01e5-4793-b347-78ddc82326a5"
+      }
+    },
+    "595": {
+      "title": "Promessa",
+      "volume": "",
+      "last_updated": "1718504891",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/467202e6-4996-4369-96e5-f9e637c79023"
+      }
+    },
+    "596": {
+      "title": "Espectro",
+      "volume": "",
+      "last_updated": "1718504908",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/4b97efab-b585-47a7-953b-11992061e1bd"
+      }
+    },
+    "597": {
+      "title": "<del>3D</del>2Y",
+      "volume": "",
+      "last_updated": "1718504932",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/3ced2f65-247b-4128-8e09-da7c13bf9384"
+      }
+    },
+    "598": {
+      "title": "2 Anos Depois",
+      "volume": "",
+      "last_updated": "1718504951",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/3d9ce506-d4b9-4b47-a576-d3124d081bbb"
+      }
+    },
+    "599": {
+      "title": "Os Nove Piratas",
+      "volume": "",
+      "last_updated": "1718504967",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/18189bd5-c972-44f9-af1b-79df2edb1717"
+      }
+    },
+    "600": {
+      "title": "A Ilha do Novo Começo",
+      "volume": "",
+      "last_updated": "1718504985",
+      "groups": {
+        "scansPROJECT": "/proxy/api/mangadex/chapter/ad605136-95eb-4284-b828-cf670fccf816"
+      }
+    },
     "1110": {
       "title": "Planetfall",
       "volume": "",
