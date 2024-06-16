@@ -1205,6 +1205,406 @@
         "Gekkou Scans": "/proxy/api/mangadex/chapter/f5358245-3c50-4ff5-9f2e-33c42a5bbd9e"
       }
     },
+    "151": {
+      "title": "Preparação Perfeita Parte 4",
+      "volume": "",
+      "last_updated": "1718569838",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/eb84e9b9-36ea-4fef-b3c1-752d82277af0"
+      }
+    },
+    "152": {
+      "title": "Preparação Perfeita Epílogo",
+      "volume": "",
+      "last_updated": "1718569923",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/ca36cbef-8238-4fce-a647-b209b935cab9"
+      }
+    },
+    "153": {
+      "title": "Jogos de Azar",
+      "volume": "",
+      "last_updated": "1718569935",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/7f8e213c-d581-4f60-b294-4f72d0063647"
+      }
+    },
+    "154": {
+      "title": "Infiltração",
+      "volume": "",
+      "last_updated": "1718569946",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/6945d866-de57-4f43-90e0-bae5660d43d3"
+      }
+    },
+    "155": {
+      "title": "Paixão",
+      "volume": "",
+      "last_updated": "1718569958",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/af0abec0-ffbf-4f1f-91ef-1f79b453b947"
+      }
+    },
+    "156": {
+      "title": "Brilha, Bilha Estrelinha",
+      "volume": "",
+      "last_updated": "1718569968",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/50c787ff-3d5c-4f79-be49-d011cd81eec9"
+      }
+    },
+    "157": {
+      "title": "Engrenagens",
+      "volume": "",
+      "last_updated": "1718569980",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/d71746b6-76ee-4fae-b903-02205b3f8723"
+      }
+    },
+    "158": {
+      "title": "Kogane",
+      "volume": "",
+      "last_updated": "1718569993",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/cc9ca5e8-38b3-4f3d-af5f-300860adc7c6"
+      }
+    },
+    "159": {
+      "title": "Julgamento",
+      "volume": "",
+      "last_updated": "1718570006",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/5ab5a56e-6b7b-4fc0-8bb6-6e898572b352"
+      }
+    },
+    "160": {
+      "title": "Colônia",
+      "volume": "",
+      "last_updated": "1718570035",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/04bc7a9d-8086-4fef-b3bc-230b4609b744"
+      }
+    },
+    "161": {
+      "title": "Colônia Tóquio 1 Parte 1",
+      "volume": "",
+      "last_updated": "1718570052",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/0bcc8a6e-6366-4f77-a34d-43a6c98a4994"
+      }
+    },
+    "162": {
+      "title": "Colônia Tóquio 1 Parte 2",
+      "volume": "",
+      "last_updated": "1718570064",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/ebe311da-7530-4f94-b475-66f511e18727"
+      }
+    },
+    "163": {
+      "title": "Colônia Tóquio 1 Parte 3",
+      "volume": "",
+      "last_updated": "1718570080",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/0e18ac11-c7c9-4f6f-ad5a-3dd74e01dab4"
+      }
+    },
+    "164": {
+      "title": "Colônia Tóquio 1 Parte 4",
+      "volume": "",
+      "last_updated": "1718570093",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/f2fbbd8d-9407-4f08-8cec-2576e9800c45"
+      }
+    },
+    "165": {
+      "title": "Colônia Tóquio 1 Parte 5",
+      "volume": "",
+      "last_updated": "1718570106",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/072b7642-5707-4f03-a008-53c409de281f"
+      }
+    },
+    "166": {
+      "title": "Colônia Tóquio Parte 6",
+      "volume": "",
+      "last_updated": "1718570116",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/f4ad630f-c258-4fff-ba54-842d171283cd"
+      }
+    },
+    "167": {
+      "title": "Chapter 167",
+      "volume": "",
+      "last_updated": "1718570127",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/ff41ea04-c878-4b41-b5a4-bf0c2d38efc6"
+      }
+    },
+    "168": {
+      "title": "Colônia Tóquio 1 (parte 8)",
+      "volume": "",
+      "last_updated": "1718570149",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/e5142590-7495-49e5-84de-49fe3e79ae5d"
+      }
+    },
+    "169": {
+      "title": "Colônia Tóquio (parte 9)",
+      "volume": "",
+      "last_updated": "1718570184",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/573bfd45-016f-4c65-b0f7-3c2d06a944da"
+      }
+    },
+    "170": {
+      "title": "Colônia Tóquio 1 (parte 10)",
+      "volume": "",
+      "last_updated": "1718570200",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/72730646-aa6f-42dc-9540-da6576939bba"
+      }
+    },
+    "171": {
+      "title": "Colônia Tóquio 1 (parte 11)",
+      "volume": "",
+      "last_updated": "1718570219",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/a1c86dca-4f14-4661-a0cd-b18e95ffcca2"
+      }
+    },
+    "172": {
+      "title": "Colônia Tóquio 1 (parte 12)",
+      "volume": "",
+      "last_updated": "1718570232",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/f035070f-0cc3-4020-b8d5-086ef731e331"
+      }
+    },
+    "173": {
+      "title": "Colônia Tóquio 1 (parte 13)",
+      "volume": "",
+      "last_updated": "1718570244",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/5c3c801b-8dd1-450d-9511-2ccc580cb59d"
+      }
+    },
+    "174": {
+      "title": "Colônia Sendai (parte 1)",
+      "volume": "",
+      "last_updated": "1718570255",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/1c3d6be2-7d1e-469c-acd8-a047d0548312"
+      }
+    },
+    "175": {
+      "title": "Colônia Sendai (parte 2)",
+      "volume": "",
+      "last_updated": "1718570267",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/5e02a78d-a7e7-411d-98bf-9a57fb8e8edd"
+      }
+    },
+    "176": {
+      "title": "Colônia Sendai (parte 3)",
+      "volume": "",
+      "last_updated": "1718570281",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/65ccec8f-07a9-4c8d-ba82-9ff979961d25"
+      }
+    },
+    "177": {
+      "title": "Colônia Sendai (parte 4)",
+      "volume": "",
+      "last_updated": "1718570297",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/c21a7a36-94b3-4b6b-9267-21f9dea2896d"
+      }
+    },
+    "178": {
+      "title": "Colônia Sendai (parte 5)",
+      "volume": "",
+      "last_updated": "1718570308",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/9a950686-530b-43a0-872a-5871786f669d"
+      }
+    },
+    "179": {
+      "title": "Colônia Sendai (parte 6)",
+      "volume": "",
+      "last_updated": "1718570324",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/c67562e8-f74a-40ad-9d2d-dfb3a39eb441"
+      }
+    },
+    "180": {
+      "title": "Colônia Sendai (parte 7)",
+      "volume": "",
+      "last_updated": "1718570338",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/dea07162-6b32-4844-9d36-db8255d44313"
+      }
+    },
+    "181": {
+      "title": "Colônia de Tóquio 2 (parte 1)",
+      "volume": "",
+      "last_updated": "1718570356",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/0f0b938b-5832-4f26-8f46-35097c1b9f1f"
+      }
+    },
+    "182": {
+      "title": "Colônia de Tóquio 2 (parte 2)",
+      "volume": "",
+      "last_updated": "1718570368",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/5d91266c-6a3c-4fee-9322-db19832fe0aa"
+      }
+    },
+    "183": {
+      "title": "Colônia Tóquio 2 (parte 3)",
+      "volume": "",
+      "last_updated": "1718570378",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/86dad231-4ab6-45fd-82f5-a379c292f505"
+      }
+    },
+    "184": {
+      "title": "Colônia Tóquio 2 (parte 4)",
+      "volume": "",
+      "last_updated": "1718570389",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/b3bfded6-e7a4-4556-b76d-c532db33c1de"
+      }
+    },
+    "185": {
+      "title": "Adeus",
+      "volume": "",
+      "last_updated": "1718570400",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/5ffbbcd8-b435-4178-8f9e-072ebaede9f8"
+      }
+    },
+    "186": {
+      "title": "Colônia Tóquio 2 (parte 5)",
+      "volume": "",
+      "last_updated": "1718570412",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/30d56291-1fbd-4733-96d3-79f67635694d"
+      }
+    },
+    "187": {
+      "title": "Colônia Tóquio 2 (parte 6)",
+      "volume": "",
+      "last_updated": "1718570424",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/b8aacfd6-5f9d-4cb4-9147-cec8dc61626d"
+      }
+    },
+    "188": {
+      "title": "Colônia Tóquio 2 (Parte 7)",
+      "volume": "",
+      "last_updated": "1718570437",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/38b95065-7e2c-4e17-b663-f776e060187a"
+      }
+    },
+    "189": {
+      "title": "Colônia Tóquio 2 (Parte 8)",
+      "volume": "",
+      "last_updated": "1718570447",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/e835d410-c13c-4f8f-a386-b08a13fbf1f7"
+      }
+    },
+    "190": {
+      "title": "Colônia Tóquio 2, Parte 9",
+      "volume": "",
+      "last_updated": "1718570460",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/f78e1d5d-5d1f-46db-bbcb-288e7b8e85d3"
+      }
+    },
+    "191": {
+      "title": "Colônia de Sakurajima, Parte 1",
+      "volume": "",
+      "last_updated": "1718570476",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/95fb58f8-52f7-42c1-94dd-afac6273b4be"
+      }
+    },
+    "192": {
+      "title": "Colônia sakurajima, Parte 2",
+      "volume": "",
+      "last_updated": "1718570493",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/19e189a0-9961-49c4-8747-f14c69f75b2e"
+      }
+    },
+    "193": {
+      "title": "Colônia sakurajima, Parte 3",
+      "volume": "",
+      "last_updated": "1718570506",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/3e6e737b-7622-459f-8d43-2cacf18320ec"
+      }
+    },
+    "194": {
+      "title": "Colônia Sakurajima, Parte",
+      "volume": "",
+      "last_updated": "1718570517",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/65bf3f5b-982e-4bc7-b440-67861bea9489"
+      }
+    },
+    "195": {
+      "title": "Colônia Sakurajima, Parte 5",
+      "volume": "",
+      "last_updated": "1718570530",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/af88e824-7c83-48d9-9d4e-973fe4138cfc"
+      }
+    },
+    "196": {
+      "title": "Colônia Sakurajima, Parte 6",
+      "volume": "",
+      "last_updated": "1718570542",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/22f7d408-0aca-43ab-a8f9-3f598fa33103"
+      }
+    },
+    "197": {
+      "title": "Colônia Sakurajima, Parte 7",
+      "volume": "",
+      "last_updated": "1718570553",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/1f45ffa4-6603-47ab-a6fb-3524eb568135"
+      }
+    },
+    "198": {
+      "title": "Colônia Sakurajima, Parte 8",
+      "volume": "",
+      "last_updated": "1718570565",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/036e5106-3b26-4c06-b378-4462b4cc3c01"
+      }
+    },
+    "199": {
+      "title": "Apelido",
+      "volume": "",
+      "last_updated": "1718570576",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/094aee3b-e026-4ab1-91a2-655b40ab6249"
+      }
+    },
+    "200": {
+      "title": "Negociações, Parte 1",
+      "volume": "",
+      "last_updated": "1718570586",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/e0b868c2-a5ac-4d98-b0d8-1ad40416c091"
+      }
+    },
     "253": {
       "title": "Capítulo 253: A Batalha na Terra Assombrada de Shinjuku (25)",
       "volume": "",
@@ -1291,6 +1691,14 @@
       "last_updated": "1718569422",
       "groups": {
         "Gekkou Scans": "/proxy/api/mangadex/chapter/5652b96b-2809-4e9b-aadc-fa9d49f7d2d0"
+      }
+    },
+    "168.5": {
+      "title": "Extra",
+      "volume": "",
+      "last_updated": "1718570176",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/c2993a8b-1a7c-4256-bb99-7ecca3024fbe"
       }
     }
   }
