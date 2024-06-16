@@ -5,6 +5,246 @@
   "author": "gege akutami",
   "cover": "https://mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/a112e575-4f11-48b2-83d8-28057ceecc4c.jpg",
   "chapters": {
+    "1": {
+      "title": "Ryomen Sukuna",
+      "volume": "",
+      "last_updated": "1718566214",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/89dbfe1a-4d25-479a-b927-5551543229b"
+      }
+    },
+    "2": {
+      "title": "Execução Secreta",
+      "volume": "",
+      "last_updated": "1718566224",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/e63fe443-cbab-4b8a-9697-97eb47692a05"
+      }
+    },
+    "3": {
+      "title": "Por mim mesmo",
+      "volume": "",
+      "last_updated": "1718566263",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/7335a12b-4d55-4fe9-9ff8-8a4639636371"
+      }
+    },
+    "4": {
+      "title": "A garota dos lasers de metal",
+      "volume": "",
+      "last_updated": "1718566278",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/95d78948-111d-426c-b217-b473bb789324"
+      }
+    },
+    "5": {
+      "title": "Início",
+      "volume": "",
+      "last_updated": "1718566292",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/4184edcd-59f6-4642-a129-8cb852ef2663"
+      }
+    },
+    "6": {
+      "title": "A Existência Mundana do Ventre Amaldiçoado PT1",
+      "volume": "",
+      "last_updated": "1718566305",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/6bcb3589-edcb-450d-83df-1ba215331d11"
+      }
+    },
+    "7": {
+      "title": "A Existência Mundana do Ventre Amaldiçoado PT2",
+      "volume": "",
+      "last_updated": "1718566319",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/498b5189-7ac6-423f-b768-7663cefbeb8b"
+      }
+    },
+    "8": {
+      "title": "A Existência Mundana do Ventre Amaldiçoado PT3",
+      "volume": "",
+      "last_updated": "1718566332",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/7442d22d-0aa4-40ae-8047-bb00f1b32bbb"
+      }
+    },
+    "9": {
+      "title": "A Existência Mundana do Ventre Amaldiçoado PT4",
+      "volume": "",
+      "last_updated": "1718566346",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/4abf3b18-388f-4eda-b1f7-3141b1d87e18"
+      }
+    },
+    "10": {
+      "title": "Depois da chuva",
+      "volume": "",
+      "last_updated": "1718566360",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/b140ecca-4f4e-4e68-b5a1-ef427ebef27f"
+      }
+    },
+    "11": {
+      "title": "Um sonho",
+      "volume": "",
+      "last_updated": "1718566373",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/66fd87eb-ebd4-4ba9-b0e0-0edfbcaec61b"
+      }
+    },
+    "12": {
+      "title": "Seguindo em frente",
+      "volume": "",
+      "last_updated": "1718566386",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/a40f91ca-aab9-4b60-a791-cb8b495e55b6"
+      }
+    },
+    "13": {
+      "title": "Apreciando Filmes",
+      "volume": "",
+      "last_updated": "1718566400",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/3892904d-89ac-4461-9e8e-9ac7094ea9e2"
+      }
+    },
+    "14": {
+      "title": "Ataque Repetino",
+      "volume": "",
+      "last_updated": "1718566430",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/956e1b7f-c925-4a32-9df1-df13d932dad3"
+      }
+    },
+    "15": {
+      "title": "Expansão",
+      "volume": "",
+      "last_updated": "1718566446",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/242d430f-84c9-4ed8-8e53-6194b823465c"
+      }
+    },
+    "16": {
+      "title": "Compaixão",
+      "volume": "",
+      "last_updated": "1718566464",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/01c04112-54b1-4f52-9088-64ccd190262c"
+      }
+    },
+    "17": {
+      "title": "Tédio",
+      "volume": "",
+      "last_updated": "1718566479",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/815a78cb-6cba-4dea-9e69-d467db9f79d6"
+      }
+    },
+    "18": {
+      "title": "Classe Inferior",
+      "volume": "",
+      "last_updated": "1718566496",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/a2a320a0-17d2-4745-a8fc-8afad3b5a356"
+      }
+    },
+    "19": {
+      "title": "Fracote e retribuição reversa I",
+      "volume": "",
+      "last_updated": "1718566511",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/19923b57-9079-4837-83a4-1c17afa2a6a7"
+      }
+    },
+    "20": {
+      "title": "Fracote e retribuição reversa II",
+      "volume": "",
+      "last_updated": "1718566526",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/2795e8b7-6edf-47c9-b3f1-fac76cc683f6"
+      }
+    },
+    "21": {
+      "title": "Fracote e retribuição reversa III",
+      "volume": "",
+      "last_updated": "1718566543",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/8e25ffe5-dc57-4a02-a0a4-15bc82decaf4"
+      }
+    },
+    "22": {
+      "title": "Fracote e retribuição reversa IV",
+      "volume": "",
+      "last_updated": "1718566557",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/4497db58-be33-415a-bbdb-2a99e4b9d9b0"
+      }
+    },
+    "23": {
+      "title": "Fracote e retribuição reversa V",
+      "volume": "",
+      "last_updated": "1718566571",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/7dc1d8fd-eddf-4cee-961a-9a67029d6e3d"
+      }
+    },
+    "24": {
+      "title": "Chapter 24",
+      "volume": "",
+      "last_updated": "1718566585",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/0a30a015-26e0-4511-9904-23e80d490839"
+      }
+    },
+    "25": {
+      "title": "Chapter 25",
+      "volume": "",
+      "last_updated": "1718566604",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/76c17dfe-368f-4d39-9ed0-96753bbbd496"
+      }
+    },
+    "26": {
+      "title": "Chapter 26",
+      "volume": "",
+      "last_updated": "1718566618",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/45bc1c6d-4924-4fbd-9ec4-1bf843689ae9"
+      }
+    },
+    "27": {
+      "title": "Chapter 27",
+      "volume": "",
+      "last_updated": "1718566632",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/8c11da03-b371-4a3e-9777-cfa6ba0e8e2f"
+      }
+    },
+    "28": {
+      "title": "Chapter 28",
+      "volume": "",
+      "last_updated": "1718566644",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/4a5061f1-9ba2-4b3a-a301-e388e05153ac"
+      }
+    },
+    "29": {
+      "title": "Chapter 29",
+      "volume": "",
+      "last_updated": "1718566658",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/b64f64b4-8365-4236-a50f-ba4279aeac26"
+      }
+    },
+    "30": {
+      "title": "Chapter 30",
+      "volume": "",
+      "last_updated": "1718566676",
+      "groups": {
+        "Gekkou Scans": "/proxy/api/mangadex/chapter/01b0d647-be22-429b-87ce-be8210bfa60c"
+      }
+    },
     "253": {
       "title": "Capítulo 253: A Batalha na Terra Assombrada de Shinjuku (25)",
       "volume": "",
