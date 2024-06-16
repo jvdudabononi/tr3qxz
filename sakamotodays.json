@@ -1356,6 +1356,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/1cfe1813-a46d-4934-befc-7981257057bd"
       }
+    },
+    "170": {
+      "title": "Bolo",
+      "volume": "",
+      "last_updated": "1718562990",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/1a71b451-34b6-40ee-9d68-5d80214c583c"
+      }
     }
   }
 }
