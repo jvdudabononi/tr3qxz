@@ -1364,6 +1364,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/1a71b451-34b6-40ee-9d68-5d80214c583c"
       }
+    },
+    "171": {
+      "title": "Pertencimento",
+      "volume": "",
+      "last_updated": "1719171788",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/5d6dd536-d8c5-4ad7-9721-7fccf5f33e8a"
+      }
     }
   }
 }
