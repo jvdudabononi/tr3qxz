@@ -1372,6 +1372,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/5d6dd536-d8c5-4ad7-9721-7fccf5f33e8a"
       }
+    },
+    "172": {
+      "title": "Miragem",
+      "volume": "",
+      "last_updated": "1719775037",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f8f3a36d-4663-44ca-98c0-fd7b96d5919c"
+      }
     }
   }
 }
