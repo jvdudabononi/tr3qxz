@@ -1380,6 +1380,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/f8f3a36d-4663-44ca-98c0-fd7b96d5919c"
       }
+    },
+    "173": {
+      "title": "Escapar",
+      "volume": "",
+      "last_updated": "1720374972",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/048cb277-9785-4e25-a0bb-0d2301b7f6e8"
+      }
     }
   }
 }
