@@ -1396,6 +1396,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/f2bfdd02-7dca-4e2a-8f92-060d5e043061"
       }
+    },
+    "175": {
+      "title": "Karma",
+      "volume": "",
+      "last_updated": "1721587388",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/9ab65771-bd7b-4f4a-8bb4-8c8acc9fe2ad"
+      }
     }
   }
 }
