@@ -1412,6 +1412,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/b2f0d7c5-c040-4141-8c46-6cfcf2a94f8f"
       }
+    },
+    "177": {
+      "title": "Kindaka",
+      "volume": "",
+      "last_updated": "1722800373",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/81336024-aef4-41d7-96ad-bd08d776c7d6"
+      }
     }
   }
 }
