@@ -116,6 +116,222 @@
       "groups": {
         "Kyodai Scans": "/proxy/api/mangadex/chapter/2293ef9b-3db6-4609-8e73-41458d550f7b"
       }
+    },
+    "15": {
+      "title": "Uma flecha agitada",
+      "volume": "3",
+      "last_updated": "1723486762",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/a985d949-ab76-466c-bb40-1a1ba3d254b7"
+      }
+    },
+    "16": {
+      "title": "Dois tolos",
+      "volume": "3",
+      "last_updated": "1723486807",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/ec52aed2-91de-469a-acc9-dc9080c32f85"
+      }
+    },
+    "17": {
+      "title": "Um gênio entre gênios",
+      "volume": "3",
+      "last_updated": "1723486826",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/6b31b0e6-44f1-4ca6-ae79-122a9076f912"
+      }
+    },
+    "18": {
+      "title": "Dragão rastejante e filhote de fênix",
+      "volume": "3",
+      "last_updated": "1723486844",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/1bc02365-69a8-465b-9592-ae75ba4cdb56"
+      }
+    },
+    "19": {
+      "title": "Uma oportunidade de matar",
+      "volume": "3",
+      "last_updated": "1723486862",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/26fe84a3-a032-4c4e-953b-100e3598ac7e"
+      }
+    },
+    "20": {
+      "title": "A primeira estratégia",
+      "volume": "3",
+      "last_updated": "1723486881",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/8c49b871-23ab-401b-8021-6979c9416e8f"
+      }
+    },
+    "21": {
+      "title": "A segunda estratégia",
+      "volume": "3",
+      "last_updated": "1723486899",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/2c675b46-23dd-41ae-8583-8ebac81a7cc8"
+      }
+    },
+    "22": {
+      "title": "A terceira estratégia",
+      "volume": "3",
+      "last_updated": "1723486916",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/47671123-0547-4a4e-8192-b1b909917cee"
+      }
+    },
+    "23": {
+      "title": "A quarta estratégia",
+      "volume": "3",
+      "last_updated": "1723486938",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/f460e8e2-93d1-4b4e-a37d-d931faf90d8b"
+      }
+    },
+    "24": {
+      "title": "Queimando Luoyang",
+      "volume": "4",
+      "last_updated": "1723486959",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/4c94d650-2cac-4460-9e7c-9972b4626ba0"
+      }
+    },
+    "25": {
+      "title": "O caminho de Yuan Fang",
+      "volume": "4",
+      "last_updated": "1723486978",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/6848e718-4fe3-4e65-b868-4ad1cf0708e9"
+      }
+    },
+    "26": {
+      "title": "Políticas e preconceitos",
+      "volume": "4",
+      "last_updated": "1723486995",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/afa57e57-1de2-4d1c-a949-275be01cb91d"
+      }
+    },
+    "27": {
+      "title": "Engolindo Lu Bu",
+      "volume": "4",
+      "last_updated": "1723487016",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/97821ebd-1422-4502-88b9-09f7c91e6816"
+      }
+    },
+    "28": {
+      "title": "Três mãos, um martelo",
+      "volume": "4",
+      "last_updated": "1723487029",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/ddea28cb-403e-4475-8057-80405ef1f685"
+      }
+    },
+    "29": {
+      "title": "Três pernas, uma faca",
+      "volume": "4",
+      "last_updated": "1723487046",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/36511b23-a448-47ba-8984-2b6752a3683e"
+      }
+    },
+    "30": {
+      "title": "Névoa de aura matadora",
+      "volume": "4",
+      "last_updated": "1723487066",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/7cc52555-7f46-4c89-9017-4836d06be900"
+      }
+    },
+    "31": {
+      "title": "Heroísmo de bravos homens",
+      "volume": "4",
+      "last_updated": "1723487082",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/579b12c9-c396-4a3b-9e0b-c0550767d519"
+      }
+    },
+    "32": {
+      "title": "Encarando o céu azul",
+      "volume": "4",
+      "last_updated": "1723487098",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/4824558f-07ad-491f-99c7-a4a40f12947e"
+      }
+    },
+    "33": {
+      "title": "A experiência do guerreiro",
+      "volume": "5",
+      "last_updated": "1723487115",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/40135439-c7b3-47ab-be8c-1cc54bfa2743"
+      }
+    },
+    "34": {
+      "title": "Luta sem fim entre dois touros",
+      "volume": "5",
+      "last_updated": "1723487142",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/f396adca-6166-45fc-ab9b-81f81efd6708"
+      }
+    },
+    "35": {
+      "title": "Alimente um tigre para atrair desastre",
+      "volume": "5",
+      "last_updated": "1723487163",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/97715835-e2f5-4257-a941-619381e440bd"
+      }
+    },
+    "36": {
+      "title": "Uma montanha maior do que as outras",
+      "volume": "5",
+      "last_updated": "1723487179",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/5fc89abc-1d0f-4f60-bc44-16fc7529ead5"
+      }
+    },
+    "37": {
+      "title": "Entre os mais fortes, há sempre um mais forte",
+      "volume": "5",
+      "last_updated": "1723487194",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/53c5aab5-2bc2-4066-b2e2-72e427953fd2"
+      }
+    },
+    "38": {
+      "title": "Incômodo inplacável",
+      "volume": "5",
+      "last_updated": "1723487322",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/91ef621b-bbc6-4c6c-863e-6d635194c92c"
+      }
+    },
+    "39": {
+      "title": "O mundo como testemunha",
+      "volume": "5",
+      "last_updated": "1723487341",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/a95477a5-6a14-46c0-b0f2-0019969a923c"
+      }
+    },
+    "40": {
+      "title": "Humano e não-humano",
+      "volume": "5",
+      "last_updated": "1723487360",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/0018aad4-da67-4206-b212-5065ce1a5dcc"
+      }
+    },
+    "41": {
+      "title": "A fênix de fogo que queima as planícies",
+      "volume": "5",
+      "last_updated": "1723487389",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/4d39fd17-36ac-40f0-97ee-0a5be0ee933b"
+      }
     }
   }
 }
