@@ -4,5 +4,118 @@
   "artist": "Chan Mou",
   "author": "Chan Mou",
   "cover": "https://mangadex.org/covers/f6ce20ca-73c3-4fdd-9367-e2901fca780e/43da40e4-3122-4d7b-a1ea-1146482cf989.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "O Despertar de um Rei",
+      "volume": "1",
+      "last_updated": "1723486004",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/18c8c222-3f56-4df1-8e66-0044d74314fc"
+      }
+    },
+    "2": {
+      "title": "Deficientes e Encurralados",
+      "volume": "1",
+      "last_updated": "1723486028",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/c3f0088a-110a-45c2-b14f-30ef1c550145"
+      }
+    },
+    "3": {
+      "title": "Derrotados como um Desmoronamento",
+      "volume": "1",
+      "last_updated": "1723486101",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/02e2b3ed-3f4f-4d31-a241-c1fc7a4932a2"
+      }
+    },
+    "4": {
+      "title": "O Líder dos Guerreiros Deficientes",
+      "volume": "1",
+      "last_updated": "1723486114",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/403ddd35-cfba-4a2e-a0f7-e1b19ec7bc7c"
+      }
+    },
+    "5": {
+      "title": "Os Três Ladrões do Jardim de Pêssegos",
+      "volume": "1",
+      "last_updated": "1723486132",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/22590715-17f4-4949-b20b-fa2189b61f00"
+      }
+    },
+    "6": {
+      "title": "A Engenhosidade de Zhong Da",
+      "volume": "1",
+      "last_updated": "1723486156",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/b52efa51-8969-4d89-8b4f-2170acce2f42"
+      }
+    },
+    "7": {
+      "title": "Lenda dos heróis",
+      "volume": "2",
+      "last_updated": "1723486176",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/c982486a-9f83-497b-948d-b59cc8c6a625"
+      }
+    },
+    "8": {
+      "title": "Estradas sangrentas de um governante",
+      "volume": "2",
+      "last_updated": "1723486261",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/05d9ef79-518d-40f0-865f-5bd472ae95ce"
+      }
+    },
+    "9": {
+      "title": "Rompendo passes",
+      "volume": "2",
+      "last_updated": "1723486279",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/b642fc26-fb8f-417c-927e-bcfb5e149545"
+      }
+    },
+    "10": {
+      "title": "Caos no portão norte",
+      "volume": "2",
+      "last_updated": "1723486299",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/67affab6-26af-4df8-bbdb-4323f9947e58"
+      }
+    },
+    "11": {
+      "title": "Sem correspondência sob o céu",
+      "volume": "2",
+      "last_updated": "1723486318",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/826a3e67-6623-44ec-b83b-8fe5e89c6fbf"
+      }
+    },
+    "12": {
+      "title": "Uma beleza além deste mundo",
+      "volume": "2",
+      "last_updated": "1723486334",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/d3358263-c3bd-46b1-b2aa-0421dad8003d"
+      }
+    },
+    "13": {
+      "title": "Dança das criaturas",
+      "volume": "2",
+      "last_updated": "1723486354",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/f6e9dd00-4c4b-4730-aff7-569432faf96d"
+      }
+    },
+    "14": {
+      "title": "Um jogo de cinco ataques",
+      "volume": "2",
+      "last_updated": "1723486382",
+      "groups": {
+        "Kyodai Scans": "/proxy/api/mangadex/chapter/2293ef9b-3db6-4609-8e73-41458d550f7b"
+      }
+    }
+  }
 }
