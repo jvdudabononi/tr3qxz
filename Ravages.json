@@ -332,6 +332,14 @@
       "groups": {
         "Kyodai Scans": "/proxy/api/mangadex/chapter/4d39fd17-36ac-40f0-97ee-0a5be0ee933b"
       }
+    },
+    "42": {
+      "title": "Pessoa muito importante",
+      "volume": "6",
+      "last_updated": "1723489019",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/431e2bf3-356a-4da7-b499-cd2816f6eebe"
+      }
     }
   }
 }
