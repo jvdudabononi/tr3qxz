@@ -1,0 +1,33 @@
+{
+  "title": "Quality Assurance in Another World",
+  "description": "Quality Assurance in Another World é um mangá isekai que segue a história de Haga, um inspetor de qualidade de um mundo moderno que, após ser transportado para um mundo de fantasia, descobre que esse novo mundo opera como um jogo cheio de bugs e inconsistências. Com sua experiência em garantia de qualidade, Haga assume a missão de corrigir esses erros e melhorar o mundo ao seu redor. Enquanto explora esse universo cheio de magia e criaturas, ele se junta a outros personagens únicos e tenta resolver os \"bugs\" que ameaçam a existência desse mundo, misturando humor, aventura e uma visão técnica incomum em um cenário de fantasia.\n\nPara mais informações sobre nossa scan, visite o nosso site: https://mangadojo.netlify.app/",
+  "artist": "Satou Masamichi",
+  "author": "Satou Masamichi",
+  "cover": "https://mangadex.org/covers/7794356e-2102-4578-86a5-d73c37395ce0/4acb05e8-e91d-4ae4-a694-def946e944b4.jpg",
+  "chapters": {
+    "1": {
+      "title": "A Ajudante, Nikola",
+      "volume": "1",
+      "last_updated": "1723672340",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/64795205-5b74-4d5b-a2df-a792818812ab"
+      }
+    },
+    "2": {
+      "title": "Makoto Haga",
+      "volume": "1",
+      "last_updated": "1723672363",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/7e2c5859-bbbb-4cf2-ae17-d6a70d2b8666"
+      }
+    },
+    "3": {
+      "title": "Sakai e Sumida",
+      "volume": "1",
+      "last_updated": "1723672383",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/94220991-8853-4d1f-acba-2653ef777c16"
+      }
+    }
+  }
+}
