@@ -1,9 +1,9 @@
 {
   "title": "The Ravages of Time",
   "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "artist": "Chen Mou",
+  "author": "Chen Mou",
+  "cover": "https://mangadex.org/covers/f6ce20ca-73c3-4fdd-9367-e2901fca780e/43da40e4-3122-4d7b-a1ea-1146482cf989.jpg",
   "chapters": {
     "1": {
       "title": "O Despertar de um Rei",
@@ -643,6 +643,142 @@
       "last_updated": "1723667503",
       "groups": {
         "Mangatrônia": "/proxy/api/mangadex/chapter/bf0002c6-ab15-4f50-8755-b8e9af192ce0"
+      }
+    },
+    "81": {
+      "title": "Justiça obscura",
+      "volume": "",
+      "last_updated": "1723671468",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/318fd892-4ef9-4203-aea5-b7b22bc2cd96"
+      }
+    },
+    "82": {
+      "title": "Morder com força no ponto fraco",
+      "volume": "",
+      "last_updated": "1723671511",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/6893775d-a049-4387-b3cc-af6dabb603f6"
+      }
+    },
+    "83": {
+      "title": "Adeus, herói",
+      "volume": "",
+      "last_updated": "1723671528",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/16446467-a4f3-4cd9-9a84-ea228570de8b"
+      }
+    },
+    "84": {
+      "title": "Galopando para o sucesso",
+      "volume": "",
+      "last_updated": "1723671542",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/337ccfdf-6620-4db0-bb03-58b83f429add"
+      }
+    },
+    "85": {
+      "title": "Decisão sobre a província de Xu",
+      "volume": "",
+      "last_updated": "1723671555",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/14a16787-9a66-414b-9cd7-76e65c6110d5"
+      }
+    },
+    "86": {
+      "title": "Momento Certo, Lugar Certo e Pessoas Certas",
+      "volume": "",
+      "last_updated": "1723671567",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/9372280c-5ccd-4c9b-89d4-0968b1b22617"
+      }
+    },
+    "87": {
+      "title": "O Primeiro Oponente Digno",
+      "volume": "",
+      "last_updated": "1723671586",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/8128f1f6-298d-4e0f-bd5c-67e99cecb38e"
+      }
+    },
+    "88": {
+      "title": "Combater fogo com fogo",
+      "volume": "",
+      "last_updated": "1723671600",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/95018835-a5c6-41f4-a778-67ebf52c67d9"
+      }
+    },
+    "89": {
+      "title": "Princípio da Ganância",
+      "volume": "",
+      "last_updated": "1723671613",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/dce10ac6-a2a0-48e8-b959-c203418e6102"
+      }
+    },
+    "90": {
+      "title": "Fazendo meu melhor",
+      "volume": "",
+      "last_updated": "1723671631",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/46d939c4-ee83-4077-8d70-a1eb6dd28da6"
+      }
+    },
+    "91": {
+      "title": "Artista, Lenhador e Assassino",
+      "volume": "",
+      "last_updated": "1723671648",
+      "groups": {
+        "Mangatrônia": "/proxy/api/mangadex/chapter/9e6f615f-0341-4ef3-9b34-1f0346dd4ab3"
+      }
+    },
+    "92": {
+      "title": "Vingança - Pagando Dívidas",
+      "volume": "",
+      "last_updated": "1723671669",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/6c6d8432-c6b8-4fd9-bc07-41a7ccf9b441"
+      }
+    },
+    "93": {
+      "title": "Uma luta por sobrevivência",
+      "volume": "",
+      "last_updated": "1723671690",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/0e2f4b35-a16b-4cee-b31d-c398b39805d9"
+      }
+    },
+    "94": {
+      "title": "Estratégia é chave em uma guerra",
+      "volume": "",
+      "last_updated": "1723671703",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/4da1b737-7e32-4de9-97fc-ea72b0fd325d"
+      }
+    },
+    "95": {
+      "title": "O Tolo entre os Tolos",
+      "volume": "",
+      "last_updated": "1723671718",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/b3ed0c59-4928-4cac-a39c-70af82e01e1c"
+      }
+    },
+    "96": {
+      "title": "Vendo a Si Mesmo",
+      "volume": "",
+      "last_updated": "1723671730",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/2fc4237d-e01c-446d-94ea-6ab9ee6843a8"
+      }
+    },
+    "97": {
+      "title": "Um Bruto Meticuloso",
+      "volume": "",
+      "last_updated": "1723671746",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/26f5dbf8-ef76-4f6e-9638-83dbf349d4d6"
       }
     }
   }
