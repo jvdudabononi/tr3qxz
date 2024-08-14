@@ -1,0 +1,17 @@
+{
+  "title": "Saraiya Goyou",
+  "description": "Saraiya Goyou é um mangá que segue a história de Masanosuke Akitsu, um samurai tímido e desempregado que, apesar de suas habilidades, é constantemente rejeitado devido à sua natureza insegura. Ele acaba trabalhando para Yaichi, o carismático líder de um grupo chamado \"Cinco Folhas\" (Goyou). À medida que Masanosuke se envolve com os membros do grupo, ele começa a questionar seus próprios valores e lealdades, enquanto descobre os segredos sombrios por trás de Yaichi e seus companheiros. O mangá é uma exploração introspectiva da moralidade, identidade e amizade, ambientada no Japão feudal.\n\nPara mais informações sobre nossa scan, visite o nosso site: https://mangadojo.netlify.app/",
+  "artist": "Ono Natsume",
+  "author": "Ono Natsume",
+  "cover": "https://mangadex.org/covers/addc1a5c-c1d7-440c-af13-59d8a2a78e7e/c592e85f-3ae5-4550-a3d5-8b25cdf28d28.jpg",
+  "chapters": {
+    "1": {
+      "title": "Início",
+      "volume": "1",
+      "last_updated": "1723672044",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/a9556181-ad8a-4033-b19a-154fdc510544"
+      }
+    }
+  }
+}
