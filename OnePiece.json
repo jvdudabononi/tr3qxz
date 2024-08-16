@@ -8980,6 +8980,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/f54e8826-d597-4a26-bdfe-0088a9a862c6"
       }
+    },
+    "1123": {
+      "title": "As 2 semanas em branco",
+      "volume": "",
+      "last_updated": "1723825731",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/imgur/chapter/HvoMB3f"
+      }
     }
   }
 }
