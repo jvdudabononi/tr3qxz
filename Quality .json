@@ -28,6 +28,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/94220991-8853-4d1f-acba-2653ef777c16"
       }
+    },
+    "4": {
+      "title": "Meus Amigos",
+      "volume": "1",
+      "last_updated": "1724205100",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/a8bad537-a3d1-4378-9bd3-a5f7e464bceb"
+      }
     }
   }
 }
