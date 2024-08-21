@@ -12,6 +12,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/a9556181-ad8a-4033-b19a-154fdc510544"
       }
+    },
+    "2": {
+      "title": "Circunstância",
+      "volume": "1",
+      "last_updated": "1724255387",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/1313080e-f215-45ec-8fe2-bff14dfaa6f6"
+      }
     }
   }
 }
