@@ -796,6 +796,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/81f7738e-af94-458b-a43b-85b23027ca50"
       }
+    },
+    "100": {
+      "title": "O Suposto Princípio da Justiça",
+      "volume": "",
+      "last_updated": "1724720013",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/b406d01c-71fd-4186-b451-fbb9eb95720d"
+      }
     }
   }
 }
