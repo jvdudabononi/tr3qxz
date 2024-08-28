@@ -36,6 +36,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/a8bad537-a3d1-4378-9bd3-a5f7e464bceb"
       }
+    },
+    "5": {
+      "title": "Tesla",
+      "volume": "1",
+      "last_updated": "1724809139",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/ff6ff54b-42ee-4a31-8a64-0e91afde77d7"
+      }
     }
   }
 }
