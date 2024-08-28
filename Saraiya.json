@@ -20,6 +20,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/1313080e-f215-45ec-8fe2-bff14dfaa6f6"
       }
+    },
+    "3": {
+      "title": "Confiança",
+      "volume": "1",
+      "last_updated": "1724862053",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/77e8adac-15bc-4f83-883d-5d4d441901b9"
+      }
     }
   }
 }
