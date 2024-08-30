@@ -1436,6 +1436,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/2255477d-2a0f-4f7c-9728-a1ee4307e68f"
       }
+    },
+    "180": {
+      "title": "Suspeito",
+      "volume": "",
+      "last_updated": "1725038041",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/imgur/chapter/AXlhuAT"
+      }
     }
   }
 }
