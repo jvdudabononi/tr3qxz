@@ -804,6 +804,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/b406d01c-71fd-4186-b451-fbb9eb95720d"
       }
+    },
+    "101": {
+      "title": "Cao",
+      "volume": "",
+      "last_updated": "1724976873",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/dfc9b0d0-c4d6-4752-ae3a-9c91482d8669"
+      }
     }
   }
 }
