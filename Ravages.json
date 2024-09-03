@@ -812,6 +812,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/dfc9b0d0-c4d6-4752-ae3a-9c91482d8669"
       }
+    },
+    "102": {
+      "title": "Um Espírito Levantado",
+      "volume": "",
+      "last_updated": "1725322585",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/deb2cb5d-3139-4c8b-a458-ed13184a8ae8"
+      }
     }
   }
 }
