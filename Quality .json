@@ -44,6 +44,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/ff6ff54b-42ee-4a31-8a64-0e91afde77d7"
       }
+    },
+    "6": {
+      "title": "Isora Amano",
+      "volume": "1",
+      "last_updated": "1725484616",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/6682da63-bf5d-4d10-b497-45f511be4c7e"
+      }
     }
   }
 }
