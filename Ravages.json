@@ -820,6 +820,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/deb2cb5d-3139-4c8b-a458-ed13184a8ae8"
       }
+    },
+    "103": {
+      "title": "Pegando o Vento Leste Emprestado",
+      "volume": "",
+      "last_updated": "1725573439",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f1811751-e4ec-44a0-bdf6-2f3c1c8f3b42"
+      }
     }
   }
 }
