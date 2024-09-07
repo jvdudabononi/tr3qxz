@@ -1,0 +1,81 @@
+{
+  "title": "Usogui",
+  "description": "\"Usogui\" é um mangá sobre Baku Madarame, um gênio das apostas conhecido como \"O Comedor de Mentiras\". Ele entra em jogos de alto risco, nos quais vidas estão em jogo, enfrentando inimigos poderosos e a organização Kagerou, que arbitra as apostas. A trama foca em estratégias complexas, manipulação psicológica e traições, enquanto Baku busca se tornar o maior apostador do mundo.\n\nPara mais informações sobre nossa scan, visite o nosso site: https://mangadojo.netlify.app/",
+  "artist": "Sako Toshio",
+  "author": "Sako Toshio",
+  "cover": "https://mangadex.org/covers/a07320a4-afcd-413a-a451-d69a448d0c28/b74c8cce-42cd-4889-b75d-7944e63f9a14.jpg",
+  "chapters": {
+    "1": {
+      "title": "O Melhor Lugar da Casa",
+      "volume": "",
+      "last_updated": "1725729745",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/aef090eb-c31d-4f58-908f-6006258c6902"
+      }
+    },
+    "2": {
+      "title": "Coma ou saldo ilegal",
+      "volume": "",
+      "last_updated": "1725729787",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/6fbc71b6-3b3e-4333-827b-b4e4598fc481"
+      }
+    },
+    "3": {
+      "title": "A Armadilha de Informações Pessoais",
+      "volume": "",
+      "last_updated": "1725729907",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f7a8791a-7efd-49f6-91df-7b22e48ba4ab"
+      }
+    },
+    "4": {
+      "title": "Assuntos Secretos",
+      "volume": "",
+      "last_updated": "1725729930",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/60b9504d-621b-4932-a8b6-f0c97abbc148"
+      }
+    },
+    "5": {
+      "title": "O Melhor Lugar da Casa",
+      "volume": "",
+      "last_updated": "1725729959",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/8ef31d8b-771c-440d-9087-4cb7b55d32d4"
+      }
+    },
+    "6": {
+      "title": "A Partida no Prédio Abandonado",
+      "volume": "",
+      "last_updated": "1725729990",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/80c12960-192e-49ee-85ee-77e21884335b"
+      }
+    },
+    "7": {
+      "title": "Tudo é uma aposta",
+      "volume": "",
+      "last_updated": "1725730048",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/ce95dcb0-e1b8-475a-98e9-cf7c33777c26"
+      }
+    },
+    "8": {
+      "title": "A Mente em Colapso",
+      "volume": "",
+      "last_updated": "1725730066",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f085a6d2-bcc2-4803-91c6-cdbcedf90d7f"
+      }
+    },
+    "9": {
+      "title": "O Prazer de Matar",
+      "volume": "",
+      "last_updated": "1725730096",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/a408f302-31eb-4414-ac5d-535a9e0f8fc7"
+      }
+    }
+  }
+}
