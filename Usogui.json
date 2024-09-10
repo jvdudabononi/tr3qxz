@@ -76,6 +76,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/a408f302-31eb-4414-ac5d-535a9e0f8fc7"
       }
+    },
+    "10": {
+      "title": "Uma festa de gritos",
+      "volume": "",
+      "last_updated": "1726002503",
+      "groups": {
+        "FSOCIETY": "/proxy/api/mangadex/chapter/80f71e5c-d1b6-48f7-92ef-bed8dabea0ea"
+      }
     }
   }
 }
