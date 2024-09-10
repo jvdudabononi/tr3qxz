@@ -1,0 +1,121 @@
+{
+  "title": "Hibari's Morning",
+  "description": "",
+  "artist": "Yamashita Tomoko",
+  "author": "Yamashita Tomoko",
+  "cover": "https://mangadojo.netlify.app/assets/mangas/HibariMorning.avif",
+  "chapters": {
+    "1": {
+      "title": "Conversa 1",
+      "volume": "1",
+      "last_updated": "1726004409",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/4ee70e26-178b-4b10-b7f2-16489a13d964"
+      }
+    },
+    "2": {
+      "title": "Conversa 2",
+      "volume": "1",
+      "last_updated": "1726004444",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/3f2b0355-d404-4277-a8eb-a27ec600d001"
+      }
+    },
+    "3": {
+      "title": "Conversa 3",
+      "volume": "1",
+      "last_updated": "1726004456",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/17e0adfb-6541-4038-bedd-2a87f179b785"
+      }
+    },
+    "4": {
+      "title": "Conversa 4",
+      "volume": "1",
+      "last_updated": "1726004468",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/59413300-417c-4aa3-92cc-2f20a65b9ba8"
+      }
+    },
+    "5": {
+      "title": "Conversa 5",
+      "volume": "1",
+      "last_updated": "1726004480",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/e263a60d-ad7a-452b-8b4f-d41b75fa9a51"
+      }
+    },
+    "6": {
+      "title": "Conversa 6",
+      "volume": "1",
+      "last_updated": "1726004494",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/123bd8da-0413-4279-9051-1ec406925e77"
+      }
+    },
+    "7": {
+      "title": "Conversa 7",
+      "volume": "1",
+      "last_updated": "1726004505",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/a72089d5-0263-4d89-9e7c-295599840c81"
+      }
+    },
+    "8": {
+      "title": "Conversa 8",
+      "volume": "2",
+      "last_updated": "1726004522",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/6b04449c-9ee5-4f47-b6aa-aa36e4f8241b"
+      }
+    },
+    "9": {
+      "title": "Conversa 9",
+      "volume": "2",
+      "last_updated": "1726004536",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/ea2bbe63-d210-4796-871c-49b9ff3fe7ab"
+      }
+    },
+    "10": {
+      "title": "Conversa 10",
+      "volume": "2",
+      "last_updated": "1726004548",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/a8409f68-b436-4c03-8d9e-a4cc595ed232"
+      }
+    },
+    "11": {
+      "title": "Conversa 11",
+      "volume": "2",
+      "last_updated": "1726004560",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/3cd52913-e364-48d8-924c-4b1d655a7ba2"
+      }
+    },
+    "12": {
+      "title": "Conversa 12",
+      "volume": "2",
+      "last_updated": "1726004570",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f2ba2400-794c-4724-8a58-0a4c49e239be"
+      }
+    },
+    "13": {
+      "title": "Conversa 13",
+      "volume": "2",
+      "last_updated": "1726004582",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/8f049625-8e89-47f1-854e-126379585bd5"
+      }
+    },
+    "14": {
+      "title": "Conversa FINAL",
+      "volume": "2",
+      "last_updated": "1726004595",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/df98464e-12ba-4cfd-a98c-d31c418b5f34"
+      }
+    }
+  }
+}
