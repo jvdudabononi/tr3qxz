@@ -1,0 +1,17 @@
+{
+  "title": "Sakamoto Holidays",
+  "description": "",
+  "artist": "Okawa Tetsu",
+  "author": "Okawa Tetsu",
+  "cover": "https://mangadojo.netlify.app/assets/mangas/CoverSakamotoMoli.avif",
+  "chapters": {
+    "1": {
+      "title": "O dia de folga de Sakamoto",
+      "volume": "",
+      "last_updated": "1726004761",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/51cb229a-84ae-4f67-9ded-a82e7711bbea"
+      }
+    }
+  }
+}
