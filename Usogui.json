@@ -84,6 +84,14 @@
       "groups": {
         "FSOCIETY": "/proxy/api/mangadex/chapter/80f71e5c-d1b6-48f7-92ef-bed8dabea0ea"
       }
+    },
+    "11": {
+      "title": "Um homem chamado Usogui",
+      "volume": "",
+      "last_updated": "1726002576",
+      "groups": {
+        "Drope Scan": "/proxy/api/mangadex/chapter/a33b0d2d-e5c6-4364-9a14-5e4c86bad345"
+      }
     }
   }
 }
