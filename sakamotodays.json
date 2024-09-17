@@ -1452,6 +1452,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/imgur/chapter/M8p0Bru"
       }
+    },
+    "182": {
+      "title": "https://mangadex.org/chapter/219eeedf-da2b-4a81-912e-1ede0272fab5/1",
+      "volume": "",
+      "last_updated": "1726592753",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/219eeedf-da2b-4a81-912e-1ede0272fab5"
+      }
     }
   }
 }
