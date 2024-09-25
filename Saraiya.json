@@ -44,6 +44,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/5e7c9a5e-a110-423a-9b25-126a62b106c4"
       }
+    },
+    "6": {
+      "title": "Propósito (Parte dois)",
+      "volume": "1",
+      "last_updated": "1727280426",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/5e51f4ee-4c46-4d69-9c1e-e0e7b9fb7f8e"
+      }
     }
   }
 }
