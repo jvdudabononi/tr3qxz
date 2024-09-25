@@ -60,6 +60,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/043cab4b-fb81-4db3-8a85-c723bffeb317"
       }
+    },
+    "8": {
+      "title": "Infiltrar",
+      "volume": "2",
+      "last_updated": "1727301678",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/d52b2434-ee03-470f-961b-146860f09c73"
+      }
     }
   }
 }
