@@ -756,6 +756,22 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/2f114237-a4f6-4d75-81c2-0536910fa213"
       }
+    },
+    "95": {
+      "title": "Aviso",
+      "volume": "",
+      "last_updated": "1727658745",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/cc8ff801-e7b6-4868-8c4a-73d50c7e5ae6"
+      }
+    },
+    "96": {
+      "title": "Aquilo que está perdido",
+      "volume": "",
+      "last_updated": "1727658767",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/454803b6-ecaa-424c-9fbe-c0ef9cb17af6"
+      }
     }
   }
 }
