@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1727692989",
       "groups": {
-        "": "/proxy/api/mangadex/chapter/940f219a-ea8b-462c-aa4e-060bc3b61bd1"
+        "": [
+          "https://drive.google.com/file/d/1cU7NPhBG-EFXbtyTMNSMhuWNZlmeegBO/view?usp=drivesdk"
+        ]
       }
     }
   }
