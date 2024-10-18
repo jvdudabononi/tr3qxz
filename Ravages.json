@@ -860,6 +860,30 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/868be227-ce4c-4326-9748-ea0ba0f680c0"
       }
+    },
+    "108": {
+      "title": "Interesse pessoal e Justiça - Escuridão e Luz",
+      "volume": "",
+      "last_updated": "1729213245",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/b0216757-6c4d-454f-96ee-6d33f59be376"
+      }
+    },
+    "109": {
+      "title": "Vida como um sonho",
+      "volume": "",
+      "last_updated": "1729213263",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/bf360873-8836-4ce1-bd07-cb79bd95528f"
+      }
+    },
+    "110": {
+      "title": "Morte Oportuna",
+      "volume": "",
+      "last_updated": "1729213279",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/dc9b5f07-043a-450b-8c34-8730d0c4d9a9"
+      }
     }
   }
 }
