@@ -788,6 +788,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/de90fe1a-7c94-46b2-bbc6-aa145f24f50e"
       }
+    },
+    "99": {
+      "title": "Contrato Para Vida",
+      "volume": "",
+      "last_updated": "1729342311",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/d6bc10da-92e4-4072-892e-6a5f7f7b5395"
+      }
     }
   }
 }
