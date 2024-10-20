@@ -796,6 +796,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/d6bc10da-92e4-4072-892e-6a5f7f7b5395"
       }
+    },
+    "100": {
+      "title": "Um Grande Erro",
+      "volume": "",
+      "last_updated": "1729446758",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/33d2342f-058a-4413-9032-b615d32f1ee8"
+      }
     }
   }
 }
