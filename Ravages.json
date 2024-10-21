@@ -884,6 +884,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/dc9b5f07-043a-450b-8c34-8730d0c4d9a9"
       }
+    },
+    "111": {
+      "title": "Imbatível",
+      "volume": "",
+      "last_updated": "1729548278",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/784d322c-c344-4b39-b78b-244c7a15cd0d"
+      }
     }
   }
 }
