@@ -60,6 +60,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/5b4ab950-2015-4ec5-870f-4f363be0c72e"
       }
+    },
+    "8": {
+      "title": "Rude (Parte Um)",
+      "volume": "1",
+      "last_updated": "1729680724",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/de21bc81-3fd8-430c-8571-b2d6dbfdc3f6"
+      }
     }
   }
 }
