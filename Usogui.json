@@ -804,6 +804,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/33d2342f-058a-4413-9032-b615d32f1ee8"
       }
+    },
+    "101": {
+      "title": "Uma Ordem a Ser Mantida",
+      "volume": "",
+      "last_updated": "1729962114",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/7df91ca6-11ce-4695-a0ce-4e4f91535329"
+      }
     }
   }
 }
