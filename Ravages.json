@@ -900,6 +900,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/2aa75a85-31a3-42cd-b8b5-33d4884902b0"
       }
+    },
+    "113": {
+      "title": "Tanto Homem quanto Deus",
+      "volume": "",
+      "last_updated": "1730161417",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/6aab1628-1e5d-4f21-b99a-a6d2ac3b7d90"
+      }
     }
   }
 }
