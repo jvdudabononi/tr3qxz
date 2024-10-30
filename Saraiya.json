@@ -76,6 +76,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/da9892b1-9f97-47e6-afa3-342631036b23"
       }
+    },
+    "10": {
+      "title": "O Imperador Louco (2)",
+      "volume": "2",
+      "last_updated": "1730331917",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/fe3f7090-e0ff-42da-8adc-6d34e1113493"
+      }
     }
   }
 }
