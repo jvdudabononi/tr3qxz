@@ -820,6 +820,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/054cb2b5-c3e6-4115-a05d-9a187114a784"
       }
+    },
+    "103": {
+      "title": "O Labirinto Corrupto",
+      "volume": "",
+      "last_updated": "1730555599",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/0cb85d3c-1478-4b7b-9f40-187df918157d"
+      }
     }
   }
 }
