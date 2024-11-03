@@ -828,6 +828,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/0cb85d3c-1478-4b7b-9f40-187df918157d"
       }
+    },
+    "104": {
+      "title": "Propósito na Vida",
+      "volume": "",
+      "last_updated": "1730608353",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/8f3e562c-5305-495c-8ee9-4869eb734afc"
+      }
     }
   }
 }
