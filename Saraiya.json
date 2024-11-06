@@ -76,6 +76,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/da9892b1-9f97-47e6-afa3-342631036b23"
       }
+    },
+    "10": {
+      "title": "Rude (Parte Três)",
+      "volume": "2",
+      "last_updated": "1730908722",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/dd0260af-2aad-4e3e-9c21-f1bd470d82f0"
+      }
     }
   }
 }
