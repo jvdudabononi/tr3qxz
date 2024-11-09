@@ -836,6 +836,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/8f3e562c-5305-495c-8ee9-4869eb734afc"
       }
+    },
+    "105": {
+      "title": "Fracassado",
+      "volume": "",
+      "last_updated": "1731162403",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/fd9b4c61-e263-4ca2-a400-ac7d35f13c8d"
+      }
     }
   }
 }
