@@ -84,6 +84,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/dd0260af-2aad-4e3e-9c21-f1bd470d82f0"
       }
+    },
+    "11": {
+      "title": "Rude (Parte Quatro)",
+      "volume": "2",
+      "last_updated": "1731536543",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/1e12765b-139a-426a-b3ae-70372cdfb7ad"
+      }
     }
   }
 }
