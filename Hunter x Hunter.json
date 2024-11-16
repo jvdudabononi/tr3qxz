@@ -1,16 +1,88 @@
 {
   "title": "Hunter x Hunter",
-  "description": "Hunter x Hunter é um mangá de Yoshihiro Togashi que segue a jornada de Gon Freecss, um garoto que descobre que seu pai, que ele acreditava estar morto, é um lendário \"Hunter\". Inspirado a encontrá-lo, Gon decide se tornar um Hunter, indivíduos com habilidades especiais que enfrentam missões perigosas.\n\nAo lado de amigos como Killua, Kurapika e Leorio, Gon passa por desafios como o Exame Hunter e descobre o poder do \"Nen\", enfrentando inimigos perigosos enquanto amadurece em sua busca por seu pai e pela verdade sobre o mundo ao seu redor.\n\nPor enquanto, teremos apenas os capítulos em parceria com a scan Kakusei Project. No entanto, em breve estarão disponíveis os capítulos 391 ao 400. Os capítulos 1 ao 390 (volumes 1 ao 37) já estão em nosso Discord! Acesse: https://bit.ly/mangadojoofcds\n\nPara mais informações sobre nossa scan, visite o nosso site: https://mangadojo.com.br/",
+  "description": "Hunter x Hunter é um mangá de Yoshihiro Togashi que segue a jornada de Gon Freecss, um garoto que descobre que seu pai, que ele acreditava estar morto, é um lendário \"Hunter\". Inspirado a encontrá-lo, Gon decide se tornar um Hunter, indivíduos com habilidades especiais que enfrentam missões perigosas.\n\nAo lado de amigos como Killua, Kurapika e Leorio, Gon passa por desafios como o Exame Hunter e descobre o poder do \"Nen\", enfrentando inimigos perigosos enquanto amadurece em sua busca por seu pai e pela verdade sobre o mundo ao seu redor.\n\nOs capítulos 1 ao 390 (volumes 1 ao 37) já estão em nosso Discord! Acesse: https://bit.ly/mangadojoofcds\n\nPara mais informações sobre nossa scan, visite o nosso site: https://mangadojo.com.br/",
   "artist": "Togashi Yoshihiro",
   "author": "Togashi Yoshihiro",
   "cover": "https://mangadex.org/covers/db692d58-4b13-4174-ae8c-30c515c0689c/a1686843-1414-45e4-a4b7-425d58356042.jpg",
   "chapters": {
     "391": {
-      "title": "Colisão 2",
+      "title": "Colisão",
       "volume": "",
       "last_updated": "1729094854",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur/chapter/sP7usVf"
+        "Kakusei Project": "/proxy/api/mangadex/chapter/9bb81cba-174b-484a-a4e3-827b84b2315e"
+      }
+    },
+    "392": {
+      "title": "Informações",
+      "volume": "",
+      "last_updated": "1731763859",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/5679aa30-dac2-420c-93eb-220a74e872e6"
+      }
+    },
+    "393": {
+      "title": "Petição",
+      "volume": "",
+      "last_updated": "1731763900",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/8b414fce-ebb1-41ba-aa54-6576881d697b"
+      }
+    },
+    "394": {
+      "title": "Plano",
+      "volume": "",
+      "last_updated": "1731763926",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/5a57c4dc-0924-4915-9895-ca66fc4eac88"
+      }
+    },
+    "395": {
+      "title": "Formação",
+      "volume": "",
+      "last_updated": "1731763961",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/530405b7-9ce1-4745-955a-3eda9638086c"
+      }
+    },
+    "396": {
+      "title": "Formação (2)",
+      "volume": "",
+      "last_updated": "1731763985",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/64ce8420-0a4f-4236-80d1-f4790de77880"
+      }
+    },
+    "397": {
+      "title": "Formação (3)",
+      "volume": "",
+      "last_updated": "1731764006",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/f6275e28-9430-4dc5-807b-8c208a2a37ed"
+      }
+    },
+    "398": {
+      "title": "Busca",
+      "volume": "",
+      "last_updated": "1731764029",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/e7a76929-7980-4fd4-b9f0-bdedfacaf768"
+      }
+    },
+    "399": {
+      "title": "Despejo",
+      "volume": "",
+      "last_updated": "1731764050",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/b65febe0-2a5b-4275-b3ae-3417eee18387"
+      }
+    },
+    "400": {
+      "title": "Ocultado",
+      "volume": "",
+      "last_updated": "1731764069",
+      "groups": {
+        "Kakusei Project": "/proxy/api/mangadex/chapter/7db2af5d-a788-42c3-8261-a8515e48ec75"
       }
     },
     "401": {
