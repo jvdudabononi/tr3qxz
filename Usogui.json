@@ -852,6 +852,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/68aa8524-e274-420a-8d3d-fd532fb6ed95"
       }
+    },
+    "107": {
+      "title": "Algo que é Óbvio",
+      "volume": "",
+      "last_updated": "1731945654",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f3de954a-c0c3-42f5-a74e-331db20e8056"
+      }
     }
   }
 }
