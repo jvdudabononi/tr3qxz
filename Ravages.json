@@ -956,6 +956,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/005a2ab0-98f4-4ecb-99ef-5aa5b692f94a"
       }
+    },
+    "120": {
+      "title": "Do indigno ao Honrado",
+      "volume": "",
+      "last_updated": "1732057614",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/94f1cadd-f511-47b1-819d-9e585e3cd2c1"
+      }
     }
   }
 }
