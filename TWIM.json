@@ -28,6 +28,54 @@
       "groups": {
         "Senryuu Scans": "/proxy/api/mangadex/chapter/b03b50d6-7f58-488a-b2ea-2d0046d87706"
       }
+    },
+    "4": {
+      "title": "Saia da Minha Frente!",
+      "volume": "1",
+      "last_updated": "1732110266",
+      "groups": {
+        "Senryuu Scans": "/proxy/api/mangadex/chapter/e8b226ba-2336-4fe3-a4b3-4a007a5bac4e"
+      }
+    },
+    "5": {
+      "title": "Pedra",
+      "volume": "1",
+      "last_updated": "1732110286",
+      "groups": {
+        "Senryuu Scans": "/proxy/api/mangadex/chapter/b4304593-c490-459b-b055-c2f7a4b8a6bf"
+      }
+    },
+    "6": {
+      "title": "Demônio",
+      "volume": "1",
+      "last_updated": "1732110301",
+      "groups": {
+        "Senryuu Scans": "/proxy/api/mangadex/chapter/04058d6e-f688-456e-93e8-c7477906a978"
+      }
+    },
+    "7": {
+      "title": "Maria e o Rei",
+      "volume": "1",
+      "last_updated": "1732110320",
+      "groups": {
+        "Senryuu Scans": "/proxy/api/mangadex/chapter/c71262ab-d931-4fa9-9777-6000c78331fe"
+      }
+    },
+    "8": {
+      "title": "O Céu e a Terra",
+      "volume": "1",
+      "last_updated": "1732110333",
+      "groups": {
+        "Senryuu Scans": "/proxy/api/mangadex/chapter/22627845-5c1d-407d-9c68-c19c590fdc7f"
+      }
+    },
+    "9": {
+      "title": "Igualdade",
+      "volume": "2",
+      "last_updated": "1732110351",
+      "groups": {
+        "Senryuu Scans": "/proxy/api/mangadex/chapter/5e25c10a-9dc7-4265-8933-b85b0c14c511"
+      }
     }
   }
 }
