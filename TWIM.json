@@ -428,6 +428,14 @@
       "groups": {
         "Senryuu Scans": "/proxy/api/mangadex/chapter/0c8945e7-71aa-4e88-86b8-bcdbd5ae55be"
       }
+    },
+    "54": {
+      "title": "Sacrifício",
+      "volume": "5",
+      "last_updated": "1732203891",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/52131e8a-e5f5-4e36-bf8c-7a1390d47464"
+      }
     }
   }
 }
