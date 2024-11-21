@@ -92,6 +92,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/1e12765b-139a-426a-b3ae-70372cdfb7ad"
       }
+    },
+    "12": {
+      "title": "Rude (Parte Cinco)",
+      "volume": "2",
+      "last_updated": "1732148539",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/04b7963f-281f-41fd-bbb3-96034e9afb1e"
+      }
     }
   }
 }
