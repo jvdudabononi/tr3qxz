@@ -100,6 +100,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/b2e09822-a524-42d5-96fe-699adf6a6006"
       }
+    },
+    "13": {
+      "title": "Chefe",
+      "volume": "2",
+      "last_updated": "1732330834",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/8c1239ec-9b16-4276-8d84-e0b70e964dca"
+      }
     }
   }
 }
