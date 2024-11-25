@@ -868,6 +868,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/6d70fece-8386-4499-9fed-d76b8a0e3ec8"
       }
+    },
+    "109": {
+      "title": "A Verdade do Rumor",
+      "volume": "",
+      "last_updated": "1732497169",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/009f1a42-5aba-46c4-8d37-dfbd38ee4c36"
+      }
     }
   }
 }
