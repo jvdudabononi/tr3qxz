@@ -876,6 +876,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/009f1a42-5aba-46c4-8d37-dfbd38ee4c36"
       }
+    },
+    "110": {
+      "title": "Festa das Feras",
+      "volume": "",
+      "last_updated": "1732585484",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/c2c63a8c-829f-47ad-8782-5a6db3e2edd2"
+      }
     }
   }
 }
