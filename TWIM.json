@@ -436,6 +436,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/52131e8a-e5f5-4e36-bf8c-7a1390d47464"
       }
+    },
+    "55": {
+      "title": "Os Ursos Da Montanha Nametoko",
+      "volume": "5",
+      "last_updated": "1732892604",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/c48f1fa0-12ce-40d1-97d5-f228dba83671"
+      }
     }
   }
 }
