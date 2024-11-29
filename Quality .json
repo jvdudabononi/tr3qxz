@@ -108,6 +108,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/8c1239ec-9b16-4276-8d84-e0b70e964dca"
       }
+    },
+    "14": {
+      "title": "O Plano Secreto",
+      "volume": "3",
+      "last_updated": "1732920904",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/0d02e879-fb89-402e-9295-627322c8db11"
+      }
     }
   }
 }
