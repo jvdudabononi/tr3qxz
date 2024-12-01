@@ -884,6 +884,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/c2c63a8c-829f-47ad-8782-5a6db3e2edd2"
       }
+    },
+    "111": {
+      "title": "Battle Royale",
+      "volume": "",
+      "last_updated": "1733066017",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/15d5680a-9dcb-46e1-a3e6-4ec4a7d72cf9"
+      }
     }
   }
 }
