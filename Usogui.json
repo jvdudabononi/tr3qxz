@@ -892,6 +892,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/15d5680a-9dcb-46e1-a3e6-4ec4a7d72cf9"
       }
+    },
+    "112": {
+      "title": "Briga!!",
+      "volume": "",
+      "last_updated": "1733136411",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/fd52822d-974c-4cdc-b8ff-dcfc2d74555a"
+      }
     }
   }
 }
