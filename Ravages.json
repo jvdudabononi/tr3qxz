@@ -980,6 +980,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/f869656a-d7e6-46e5-b7f5-675bb175cbf8"
       }
+    },
+    "123": {
+      "title": "O Preço da Lealdade",
+      "volume": "",
+      "last_updated": "1733183475",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/3900e5aa-4782-4120-90e6-368965877133"
+      }
     }
   }
 }
