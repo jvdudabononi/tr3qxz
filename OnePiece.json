@@ -9050,7 +9050,7 @@
       "volume": "",
       "last_updated": "1731111652",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur/chapter/U4NbdjZ"
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/a20fef90-b00e-4042-9d70-bedc5213113c"
       }
     },
     "1132": {
@@ -9058,7 +9058,7 @@
       "volume": "",
       "last_updated": "1732930552",
       "groups": {
-        "Mangá Dōjō": "/proxy/api/imgur/chapter/n8nXd9P"
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/67a8f9a1-c998-404b-9fd7-f1745288cdc3"
       }
     }
   }
