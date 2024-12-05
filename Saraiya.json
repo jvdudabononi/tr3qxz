@@ -108,6 +108,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/1ee4524c-52ad-46f3-be59-2bc36b873859"
       }
+    },
+    "14": {
+      "title": "O Mesmo Nome",
+      "volume": "2",
+      "last_updated": "1733359072",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/3a0039a0-da93-4578-925a-99529d443744"
+      }
     }
   }
 }
