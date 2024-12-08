@@ -900,6 +900,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/fd52822d-974c-4cdc-b8ff-dcfc2d74555a"
       }
+    },
+    "113": {
+      "title": "Pandemõnio Eterno",
+      "volume": "",
+      "last_updated": "1733665575",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/36ad175d-8e84-4d2c-abb9-7f3af1fe61af"
+      }
     }
   }
 }
