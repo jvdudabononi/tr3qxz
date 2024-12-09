@@ -116,6 +116,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/0d02e879-fb89-402e-9295-627322c8db11"
       }
+    },
+    "15": {
+      "title": "Comando de Console",
+      "volume": "3",
+      "last_updated": "1733786330",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/516dbda6-a682-420a-b371-134ab37ae8e9"
+      }
     }
   }
 }
