@@ -1004,6 +1004,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/2dc3fab0-d757-490e-a4ca-8012d144bf53"
       }
+    },
+    "126": {
+      "title": "Três Assassinos",
+      "volume": "",
+      "last_updated": "1733872723",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/11b66a07-45c0-4179-8c85-21c8e9d5ab53"
+      }
     }
   }
 }
