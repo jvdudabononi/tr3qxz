@@ -116,6 +116,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/3a0039a0-da93-4578-925a-99529d443744"
       }
+    },
+    "15": {
+      "title": "Endividado (Parte Um)",
+      "volume": "3",
+      "last_updated": "1733960552",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/921c1c70-340a-48a8-b998-d0534f95949b"
+      }
     }
   }
 }
