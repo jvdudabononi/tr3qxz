@@ -452,6 +452,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/73f41880-06aa-4fcc-8263-12d90cb61f18"
       }
+    },
+    "57": {
+      "title": "Segunda Guerra",
+      "volume": "6",
+      "last_updated": "1734039129",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f0c34cb0-ba2d-4330-ad68-6479f44d2bb5"
+      }
     }
   }
 }
