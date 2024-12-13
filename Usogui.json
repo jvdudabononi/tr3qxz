@@ -908,6 +908,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/36ad175d-8e84-4d2c-abb9-7f3af1fe61af"
       }
+    },
+    "114": {
+      "title": "Próximo Nível",
+      "volume": "",
+      "last_updated": "1734104898",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/75962202-66bc-4f4b-b97a-4b919ef59c25"
+      }
     }
   }
 }
