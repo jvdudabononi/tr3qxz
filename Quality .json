@@ -124,6 +124,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/516dbda6-a682-420a-b371-134ab37ae8e9"
       }
+    },
+    "16": {
+      "title": "Luu",
+      "volume": "3",
+      "last_updated": "1734141161",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/c5b8391e-3cbb-40b6-b47a-fae8e96f4225"
+      }
     }
   }
 }
