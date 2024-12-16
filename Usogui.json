@@ -916,6 +916,14 @@
       "groups": {
         "Mangá Dōjō": "/proxy/api/mangadex/chapter/75962202-66bc-4f4b-b97a-4b919ef59c25"
       }
+    },
+    "115": {
+      "title": "Arquivo-L",
+      "volume": "",
+      "last_updated": "1734312880",
+      "groups": {
+        "Mangá Dōjō": "/proxy/api/mangadex/chapter/f6ad5852-5237-43fb-a408-d3c804de287f"
+      }
     }
   }
 }
