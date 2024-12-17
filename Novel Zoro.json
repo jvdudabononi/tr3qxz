@@ -1,0 +1,25 @@
+{
+  "title": "Novel Zoro",
+  "description": "",
+  "artist": "Nakamaru",
+  "author": "Esaka Jun",
+  "cover": "https://pbs.twimg.com/media/GPg9MyLWwAE_8jZ?format=jpg&name=large",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1734477853",
+      "groups": {
+        "Mangá Dōjō & One Piece News": "/proxy/api/imgur/chapter/awGWxsx"
+      }
+    },
+    "2": {
+      "title": "Oizuru",
+      "volume": "",
+      "last_updated": "1734477856",
+      "groups": {
+        "Mangá Dōjō & One Piece News": "/proxy/api/imgur/chapter/CVLCTRZ"
+      }
+    }
+  }
+}
